@@ -4,4 +4,4 @@ npm version: 7.5.1
 
 go to root path and run `npm install`  
 go to path `/app/` and run `npm install`  
-and run in `app` path `npm start`  
+and run in `/app/` path `npm start`  
