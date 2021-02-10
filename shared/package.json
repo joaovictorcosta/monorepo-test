@@ -1,0 +1,9 @@
+{
+  "name": "@monorepo/shared",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "private": true,
+  "dependencies": {
+    "tsc": "^1.20150623.0"
+  }
+}
